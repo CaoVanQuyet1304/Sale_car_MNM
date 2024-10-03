@@ -299,7 +299,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/image_home.jpg);
+	background-image: url(../images/slide_1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -307,7 +307,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slider-image-2-1920x600.jpg);
+	background-image: url(../images/slide_2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -315,7 +315,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/image_home_3.jpg);
+	background-image: url(../images/slide_3.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -975,7 +975,7 @@ footer .inner-content p a {
 }
 
 .section-background { 
-	background: #f1f1f1; 
+	background: rgba(70, 197, 240, 0.916); 
 }
 
 .section {
